@@ -1,2 +1,2 @@
 print('Hello, World!')
-print('Python')
+print('version 1')
